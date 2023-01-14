@@ -1,0 +1,6 @@
+
+The given data belongs to the amazon sales generated in the year 2022, which
+shows the total sales of 12.6 million, with a total profit of 1.5 million,
+in the continent/ market of africa, asia, canada, europe and US etc.
+
+A single page basic powerbi report is created on the above data.
