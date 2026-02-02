@@ -79,18 +79,6 @@ Dashboard Storytelling
 
 GitHub Project Structuring
 
-## 📂 Repository Structure
-
-Motorola_Mobile_Sales_Dashboard/
-│
-├── Assets/ # Icons and visual assets
-├── Basic Dashboard/ # Initial dashboard versions
-├── Screenshots/ # Dashboard images for README
-│
-├── Mobile_Sales_Data.xlsx
-├── Motorola_Sales_Dashboard.pbix
-└── README.md
-
 👤 Author
 
 Jugal Deshmukh
