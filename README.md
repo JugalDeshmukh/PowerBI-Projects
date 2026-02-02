@@ -1,3 +1,29 @@
-# PowerBI-Projects
+# Power BI Projects Portfolio  
+👤 Author: Jugal Deshmukh  
 
-## A Power BI Report Based on the Amazon Sales Data of the year 2022. This is a single page report that has been created using most of the basic features of the Power BI Desktop.
+Welcome to my Power BI project portfolio.
+
+This repository contains multiple Power BI dashboards and analytics projects showcasing my skills in data preparation, modeling, DAX, and interactive visualization.
+
+Each project is organized in its own folder and includes datasets, Power BI files, and supporting documentation.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop  
+- Power Query  
+- DAX  
+- Microsoft Excel  
+- SQL  
+- GitHub  
+
+---
+
+## 🎯 Purpose of This Repository
+
+The goal of this repository is to demonstrate practical Business Intelligence skills across the full BI lifecycle:
+
+Data Collection → Data Cleaning → Data Modeling → Visualization → Insights
+
+These projects reflect real-w
