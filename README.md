@@ -3,7 +3,7 @@
 
 Welcome to my Power BI project portfolio.
 
-This repository contains multiple Power BI dashboards and analytics projects showcasing my skills in data preparation, modeling, DAX, and interactive visualization.
+This repository contains multiple Power BI dashboards and analytics end to end projects showcasing my skills in data preparation, modeling, DAX, and interactive visualization.
 
 Each project is organized in its own folder and includes datasets, Power BI files, and supporting documentation.
 
